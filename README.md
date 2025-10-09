@@ -15,10 +15,6 @@ Feel free to reach out on social media below:
 
 ---
 
-<p align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis)
-</p>
-
 ### 🧰 My Tech Stack
 - 💻 Languages:  C++, PHP, Python, Java, Go, Javascript
 - 🧠 Currently learning: Laravel, Filament, and Web Development
