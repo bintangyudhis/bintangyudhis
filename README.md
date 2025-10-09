@@ -1,4 +1,4 @@
-# Hai, aku Bintang 👋
+# Hai, aku Bintang Yudhistira👋
 Selamat datang di profil GitHub-ku!
 
 ---
