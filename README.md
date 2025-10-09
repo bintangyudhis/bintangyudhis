@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/bintangyudhis.png" width="200" style="border-radius:50%;">
-</p>
-
 # Hai, aku Bintang Yudhistira👋
 Selamat datang di profil GitHub-ku!
 
