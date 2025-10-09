@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/bintangyudhis.png" width="200" style="border-radius:50%;">
+</p>
+
 # Hai, aku Bintang Yudhistira👋
 Selamat datang di profil GitHub-ku!
 
@@ -10,6 +14,10 @@ Feel free to reach out on social media below:
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/yudhis_gaiden)
 
 ---
+
+<p align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis)
+</p>
 
 ### 🧰 My Tech Stack
 - 💻 Languages:  C++, PHP, Python, Java, Go, Javascript
