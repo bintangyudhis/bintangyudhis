@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png alt="banner.png"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/banner.png" alt="Banner Profil Bintang"/>
 </p>
 
 <h1 align="center">👋 Halo! Aku Bintang Yudhistira</h1>
