@@ -1,25 +1,34 @@
-### Hi there, I'm Bintang Yudhistira 👋
+<p align="center">
+  <img src="LINK_BANNER_KAMU_DI_SINI" alt="Banner Profil Bintang Yudhistira"/>
+</p>
 
-<a href="https://linkedin.com/in/bintang-yudhistira-278448289">
-  <img align="left" width="200px" src="https://media.licdn.com/dms/image/D5603AQH1B6jC-f8TGA/profile-displayphoto-shrink_400_400/0/1691238466632?e=1734134400&v=beta&t=x3z6c66-s13p3L3Yj2J_c0j0_J-m2o1p3l1b0R1Z2e4" />
-</a>
+<h1 align="center">👋 Halo! Saya Bintang Yudhistira</h1>
+<h3 align="center">Seorang Web Developer yang bersemangat mengubah ide menjadi kode.</h3>
 
-Saya seorang pengembang web dari Indonesia dengan minat besar pada teknologi backend dan pengembangan aplikasi yang efisien. Saat ini sedang mendalami ekosistem Laravel untuk membangun solusi web yang modern.
-
-- 🌱 Saat ini sedang fokus belajar: **Laravel, Filament, dan Arsitektur Web**.
-- 👯 Saya terbuka untuk berkolaborasi dalam proyek open-source yang menarik.
-- 💬 Tanya saya tentang: **PHP, Python, atau Go**.
-- 📫 Cara menghubungi saya: **[LinkedIn](https://linkedin.com/in/bintang-yudhistira-278448289)**
-
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/yudhis_gaiden" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
 ---
 
-### 🧰 My Tech Stack
+<p align="center">
+  Selamat datang di sudut digital saya! Saya adalah seorang developer dari Indonesia yang suka sekali mendalami dunia backend, terutama dengan ekosistem PHP dan Laravel. Saat ini, saya sedang aktif mengasah skill dalam membangun aplikasi web yang modern dan fungsional.
+</p>
 
-Berikut adalah beberapa teknologi yang sering saya gunakan:
+- 🌱 Saat ini lagi asyik ngoprek: **Laravel, Filament, dan Arsitektur Web Modern**.
+- 👯 Terbuka untuk **kolaborasi** di proyek open-source yang seru.
+- 💬 Mau ngobrol soal apa? Tanya aja tentang **PHP, Python, atau Go!**
 
-<p align="left">
+---
+
+### 🚀 Teknologi & Tools Andalan Saya
+
+<p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -45,8 +54,9 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 
 ---
 
+### 📊 Statistik GitHub Saya
 
-### 📬 Get In Touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bintang-yudhistira-278448289)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yudhis_gaiden)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bintang-yudhistira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bintang's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintang-yudhistira&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Languages" />
+</p>
