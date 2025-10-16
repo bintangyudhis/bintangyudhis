@@ -45,14 +45,6 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bintang-yudhistira&show_icons=true&theme=radical" alt="Bintang's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintang-yudhistira&layout=compact&theme=radical" alt="Bintang's Top Languages" />
-</p>
-
----
 
 ### 📬 Get In Touch
 
