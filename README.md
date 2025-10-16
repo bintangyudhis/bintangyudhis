@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Halo! Saya Bintang Yudhistira</h1>
-<h3 align="center">Seorang Web Developer yang bersemangat mengubah ide menjadi kode.</h3>
+<h3 align="center">Pemula di Web Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
@@ -17,12 +17,12 @@
 ---
 
 <p align="center">
-  Selamat datang di sudut digital saya! Saya adalah seorang developer dari Indonesia yang suka sekali mendalami dunia backend, terutama dengan ekosistem PHP dan Laravel. Saat ini, saya sedang aktif mengasah skill dalam membangun aplikasi web yang modern dan fungsional.
+  Selamat datang di profil githubku!! Aku adalah seorang yang tertarik di bidang Web terutama dengan ekosistem PHP dan Laravel. Saat ini, saya juga tertarik ke dunia Teknologi Web3 dan Finance.
 </p>
 
 - 🌱 Saat ini lagi asyik ngoprek: **Laravel, Filament, dan Arsitektur Web Modern**.
 - 👯 Terbuka untuk **kolaborasi** di proyek open-source yang seru.
-- 💬 Mau ngobrol soal apa? Tanya aja tentang **PHP, Python, atau Go!**
+- 💬 Mau ngobrol soal apa? gass aja dm my ig.
 
 ---
 
@@ -54,9 +54,3 @@
 
 ---
 
-### 📊 Statistik GitHub Saya
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bintang-yudhistira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bintang's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintang-yudhistira&layout=compact&theme=tokyonight&hide_border=true" alt="Bintang's Top Languages" />
-</p>
