@@ -2,7 +2,7 @@
   <img src="LINK_BANNER_KAMU_DI_SINI" alt="Banner Profil Bintang Yudhistira"/>
 </p>
 
-<h1 align="center">👋 Halo! Saya Bintang Yudhistira</h1>
+<h1 align="center">👋 Halo! Aku Bintang Yudhistira</h1>
 <h3 align="center">Pemula di Web Developer</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Teknologi & Tools Andalan Saya
+### 🚀 Teknologi & Tools yg sering saya gunakan
 
 <p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
