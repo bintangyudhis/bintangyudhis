@@ -5,7 +5,7 @@
 
 <!-- Judul -->
 <h1 align="center">👋 Halo, Saya Bintang Yudhistira</h1>
-<h3 align="center">Informatics Enthusiast & Web Developer</h3>
+<h3 align="center">Pemula Web Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
@@ -20,21 +20,12 @@
 
 ## 👋 Tentang Saya
 
-Halo! Aku seorang pengembang web yang tertarik pada **ekosistem PHP dan Laravel**.  
-Aku senang membangun aplikasi modern dengan struktur yang rapi dan performa optimal.  
-Selain itu, aku juga mulai menjelajahi **dunia Web3 dan Finance Technology**.
+Halo! Aku seorang yang tertarik pada pengembangan web menggunakan **ekosistem PHP dan Laravel**.  
+Aku siap bekerja dan belajar bersama. Selain itu, aku juga tertarik dengan dunia **Web3 dan Finance**.
 
 - 🌱 Saat ini sedang fokus belajar: **Laravel, Filament, dan Arsitektur Web Modern**
 - 👯 Terbuka untuk kolaborasi di **proyek open-source**
-- 💬 Jangan sungkan DM di Instagram kalau mau ngobrol seputar tech atau web dev!
-
----
-
-## 🧠 Fokus Saat Ini
-- 🔹 Back-End Development (Laravel, PHP, API)
-- 🔹 Database Design & Optimization
-- 🔹 Belajar dasar Go dan JavaScript
-- 🔹 Membangun proyek mini berbasis SaaS
+- 💬 Jangan sungkan DM di Instagram kalau mau ngobrol!
 
 ---
 
@@ -87,7 +78,13 @@ Selain itu, aku juga mulai menjelajahi **dunia Web3 dan Finance Technology**.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discord.gg/" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
-  <a href="https://youtube.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://instagram.com/yudhis_gaiden" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <a href="https://discordapp.com/users/youthis1" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="Discord" />
+  </a>
+  <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yudhis_gaiden" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
 </p>
