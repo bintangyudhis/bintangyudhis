@@ -5,7 +5,7 @@
 
 <!-- Judul -->
 <h1 align="center">👋 Halo, Saya Bintang Yudhistira</h1>
-<h3 align="center">Pemula Web Developer</h3>
+<h3 align="center">Developer Pemula</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
@@ -24,8 +24,8 @@ Halo! Aku seorang yang tertarik pada pengembangan web menggunakan **ekosistem PH
 Aku siap bekerja dan belajar bersama. Selain itu, aku juga tertarik dengan dunia **Web3 dan Finance**.
 
 - 🌱 Saat ini sedang fokus belajar: **Laravel, Filament, dan Arsitektur Web Modern**
-- 👯 Terbuka untuk kolaborasi di **proyek open-source**
-- 💬 Jangan sungkan DM di Instagram kalau mau ngobrol!
+- 👯 Terbuka untuk kolaborasi
+- 💬 DM di Instagram kalau mau ngobrol!
 
 ---
 
