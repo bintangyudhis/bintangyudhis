@@ -8,7 +8,7 @@
 ### 👋 Hi there, I'm **Bintang Yudhistira**
 
 <p align="center">
-  Developer Pemula yang sedang mendalami dunia pengembangan web modern dan ekosistem PHP.
+  A junior developer exploring the world of modern software development, highly enthusiastic and motivated to learn, grow, and contribute through real-world projects.
   <br>
   Welcome to my digital space!
 </p>
@@ -19,12 +19,13 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-- 🌱 Saat ini fokus mendalami **Laravel, Filament, dan Arsitektur Web Modern**  
-- 💼 Tertarik pada dunia **Web Development, Web3, dan Finance**  
-- 👯 Terbuka untuk kolaborasi project  
-- 💬 Bisa DM via Instagram kalau ingin diskusi santai!  
+🎓 Studying at Telkom University
+🌱 Currently focusing on Laravel and Modern Web Architecture
+💼 Interested in Software Development, Web3 and Machine Learning
+👯 Open to project collaborations
+💬 Feel free to DM me on Instagram for a casual discussion!
 
 ---
 
