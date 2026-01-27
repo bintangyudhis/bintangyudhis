@@ -21,11 +21,11 @@
 
 ### 👨‍💻 About Me
 
--🎓 Studying at Telkom University
--🌱 Currently focusing on Laravel and Modern Web Architecture
--💼 Interested in Software Development, Web3 and Machine Learning
--👯 Open to project collaborations
--💬 Feel free to DM me on Instagram for a casual discussion!
+- 🎓 Studying at Telkom University  
+- 🌱 Currently focusing on Laravel and Modern Web Architecture  
+- 💼 Interested in Software Development, Web3, and Machine Learning  
+- 👯 Open to project collaborations  
+- 💬 Feel free to DM me on Instagram for a casual discussion!
 
 ---
 
