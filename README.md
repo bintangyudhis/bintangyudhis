@@ -86,13 +86,13 @@
 ### 🎮 My Contribution Graph as a Game (Snake)
 
 <!-- FIX: pakai URL raw yang lebih “nempel” ke GitHub (bukan raw.githubusercontent.com) -->
-<p align="center">
+[<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</p>](https://github.com/bintangyudhis/bintangyudhis/actions/workflows/snake.yml)
 
 ---
 
