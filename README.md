@@ -38,9 +38,12 @@
   <a href="https://www.php.net" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   </a>
+
+  <!-- FIX: Laravel icon (pakai yang lebih pasti ada) -->
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
   </a>
+
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   </a>
@@ -62,27 +65,32 @@
 <details>
   <summary>Klik untuk melihat statistik GitHub saya</summary>
   <br>
+
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&theme=radical&hide_border=false" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=radical&hide_border=false" height="150" />
+    <!-- FIX: tambah cache_seconds biar nggak sering rate-limit -->
+    <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" height="150" />
     <img src="https://streak-stats.demolab.com?user=bintangyudhis&theme=radical&hide_border=false" height="150"/>
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=bintangyudhis&theme=radical&margin-w=8&margin-h=8" height="150" />
   </p>
+
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bintangyudhis&radius=16&theme=react&area=true" height="300"/>
+    <!-- Activity graph kadang down; ini tetap dipakai tapi dengan cache -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bintangyudhis&radius=16&theme=react&area=true&hide_border=false&cache_seconds=86400" height="300"/>
   </p>
 </details>
 
 ---
 
-### 🎮 My Contribution Graph as a Game
+### 🎮 My Contribution Graph as a Game (Snake)
 
+<!-- FIX: pakai URL raw yang lebih “nempel” ke GitHub (bukan raw.githubusercontent.com) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://github.com/bintangyudhis/bintangyudhis/raw/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
