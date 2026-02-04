@@ -57,20 +57,44 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&theme=radical&cache_seconds=86400" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=radical&cache_seconds=86400" height="160"/>
+    <!-- GitHub Readme Stats (mirror yang lebih stabil) -->
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bintangyudhis&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400"
+      height="160"
+      alt="GitHub stats"
+    />
+    <img
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=radical&hide_border=false&cache_seconds=86400"
+      height="160"
+      alt="Top languages"
+    />
   </p>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=bintangyudhis&theme=radical" height="160"/>
+    <!-- Streak -->
+    <img
+      src="https://streak-stats.demolab.com?user=bintangyudhis&theme=radical&hide_border=false"
+      height="160"
+      alt="GitHub streak"
+    />
   </p>
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bintangyudhis&theme=radical&row=1&column=6"/>
+    <!-- Trophy -->
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=bintangyudhis&theme=radical&margin-w=8&margin-h=8"
+      height="150"
+      alt="GitHub trophy"
+    />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bintangyudhis&theme=react-dark&hide_border=true"/>
+    <!-- Activity Graph -->
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=bintangyudhis&radius=16&theme=react&area=true&hide_border=false&cache_seconds=86400"
+      height="300"
+      alt="Activity graph"
+    />
   </p>
 </details>
 
