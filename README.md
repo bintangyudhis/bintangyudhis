@@ -83,7 +83,6 @@
 
 ---
 
-### 🎮 My Contribution Graph as a Game (Snake)
 
 <!-- FIX: pakai URL raw yang lebih “nempel” ke GitHub (bukan raw.githubusercontent.com) -->
 ## 🎮 My Contribution Graph as a Game (Snake)
