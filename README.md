@@ -1,138 +1,79 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/banner.png" alt="Banner Profil Bintang"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/banner.png" alt="Bintang Yudhistira — Web Developer"/>
 </p>
 
-<!-- ===================== TYPING INTRO ===================== -->
-<h1 align="center">
-  👋 Hi there, I'm <span style="color:#ff5555;">Bintang Yudhistira</span>
-</h1>
+<h1 align="center">Hi, I'm Bintang Yudhistira</h1>
 
 <p align="center">
-  <i>
-    A junior developer exploring the world of modern software development, <br/>
-    highly enthusiastic and motivated to learn, grow, and contribute through real-world projects.
-  </i>
-  <br/><br/>
-  🚀 Welcome to my digital space!
+  Software Developer & AI enthusiast — mahasiswa Informatika di Telkom University Purwokerto.<br/>
+  Saya membangun aplikasi web dan mobile, dan sedang mendalami Machine Learning & Computer Vision.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bintangyudhis&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bintangyudhis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<hr/>
+---
 
-<!-- ===================== ABOUT ME ===================== -->
-<h2>👨‍💻 About Me</h2>
+## Tentang Saya
 
-<ul>
-  <li>🎓 Studying at <b>Telkom University</b></li>
-  <li>🌱 Currently focusing on <b>Laravel</b> & <b>Modern Web Architecture</b></li>
-  <li>💼 Interested in <b>Software Development, Web3, and Machine Learning</b></li>
-  <li>👯 Open to project collaborations</li>
-  <li>💬 Feel free to DM me on Instagram for a casual discussion!</li>
-</ul>
+- Mahasiswa **Informatika — Telkom University Purwokerto**
+- Saat ini fokus membangun aplikasi dengan **Next.js** dan **Flutter**, setelah sebelumnya banyak berkarya dengan **Laravel**
+- Tertarik pada **Software Development, Machine Learning, dan Computer Vision**
+- Terbuka untuk kolaborasi project
+- Portfolio: **[bintangyudhis.my.id](https://bintangyudhis.my.id)**
 
-<hr/>
+---
 
-<!-- ===================== TECH STACK ===================== -->
-<h2>🛠️ Teknologi & Tools</h2>
+## Teknologi & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,php,laravel,python,java,go,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,php,python,java,go,javascript,typescript,dart&theme=dark" alt="Bahasa pemrograman"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,tailwind,mysql,git,github&theme=dark" alt="Framework dan tools"/>
 </p>
 
-<p align="center">
-  <i>Tech I use, learn, and build things with 🚀</i>
-</p>
+---
 
-<hr/>
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
-
-<details>
-  <summary>▶ Klik untuk melihat statistik GitHub saya</summary>
-  <br/>
-
-  <p align="center">
-    <!-- GitHub Readme Stats (mirror yang lebih stabil) -->
-    <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bintangyudhis&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400"
-      height="160"
-      alt="GitHub stats"
-    />
-    <img
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=radical&hide_border=false&cache_seconds=86400"
-      height="160"
-      alt="Top languages"
-    />
-  </p>
-
-  <p align="center">
-    <!-- Streak -->
-    <img
-      src="https://streak-stats.demolab.com?user=bintangyudhis&theme=radical&hide_border=false"
-      height="160"
-      alt="GitHub streak"
-    />
-  </p>
-
-  <p align="center">
-    <!-- Trophy -->
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=bintangyudhis&theme=radical&margin-w=8&margin-h=8"
-      height="150"
-      alt="GitHub trophy"
-    />
-  </p>
-
-  <p align="center">
-    <!-- Activity Graph -->
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=bintangyudhis&radius=16&theme=react&area=true&hide_border=false&cache_seconds=86400"
-      height="300"
-      alt="Activity graph"
-    />
-  </p>
-</details>
-
-<hr/>
-
-<!-- ===================== SNAKE ===================== -->
-<h2>🎮 My Contribution Graph as a Game</h2>
+## GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Statistik GitHub Bintang Yudhistira"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Bahasa teratas"/>
 </p>
 
 <p align="center">
-  <i>Because coding should be fun too 🐍🎮</i>
+  <img src="https://streak-stats.demolab.com?user=bintangyudhis&theme=github-dark&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
-<hr/>
+---
 
-<!-- ===================== CONNECT ===================== -->
-<h2>🌐 Connect With Me</h2>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake.svg" alt="Snake animation memakan grafik kontribusi"/>
+</p>
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://discordapp.com/users/youthis1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/yudhis_gaiden" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" alt="Instagram"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Let’s connect, collaborate, and build something awesome ✨</i>
+  <i>Let's connect and build something worth building.</i>
 </p>
