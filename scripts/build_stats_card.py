@@ -58,6 +58,36 @@ LANG_COLORS = {
 }
 
 
+def fetch_contributed():
+    # Official metric via GraphQL (same as github-readme-stats "Contributed to")
+    try:
+        import urllib.request as ur
+        body = json.dumps({"query": 'query { user(login: "%s") { repositoriesContributedTo(first: 1) { totalCount } } }' % USER}).encode()
+        req = ur.Request("https://api.github.com/graphql", data=body, method="POST")
+        req.add_header("Content-Type", "application/json")
+        if TOKEN:
+            req.add_header("Authorization", "Bearer " + TOKEN)
+        with ur.urlopen(req, timeout=30) as r:
+            data = json.load(r)
+        return data["data"]["user"]["repositoriesContributedTo"]["totalCount"]
+    except Exception:
+        pass
+    # Fallback: distinct foreign repos among authored issues/PRs
+    repos = set()
+    page = 1
+    while page <= 5:
+        res = api(f"/search/issues?q=author:{USER}&per_page=100&page={page}")
+        items = res.get("items", [])
+        if not items:
+            break
+        for it in items:
+            owner_repo = it.get("repository_url", "").rsplit("/repos/", 1)[-1]
+            if owner_repo and not owner_repo.lower().startswith(USER.lower() + "/"):
+                repos.add(owner_repo)
+        page += 1
+    return len(repos)
+
+
 def fetch_languages():
     totals = {}
     page = 1
@@ -188,7 +218,7 @@ def build_detail_svg(s, rank):
         ("Total Commits", s["commits"]),
         ("Total PRs", s["prs"]),
         ("Total Issues", s["issues"]),
-        ("Followers", s["followers"]),
+        ("Contributed to", s["contributed"]),
     ]
     body = []
     for i, (label, val) in enumerate(rows):
@@ -236,6 +266,7 @@ def build_langs_svg(langs):
 
 def main():
     stats = fetch_stats()
+    stats["contributed"] = fetch_contributed()
     rank = rank_letter(stats)
     langs = fetch_languages()
     with open(os.path.join(ROOT, "assets", "gojo-stats-detail.svg"), "w") as f:
