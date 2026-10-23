@@ -99,7 +99,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ## Connect With Me
 
 <p align="center">
-  <a href="https://discordapp.com/users/youthis1" target="_blank">
+  <a href="https://discord.com/users/1446071146993946634" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0620" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
