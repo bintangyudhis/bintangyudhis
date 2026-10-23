@@ -18,9 +18,13 @@
 
 ## Tentang Saya
 
-Mahasiswa Informatika di **Telkom University**. Software developer dan AI enthusiast — berkarya dengan Next.js, Flutter, dan Laravel, dan sedang mendalami Machine Learning & Computer Vision.
+Halo, saya Bintang. Mahasiswa Informatika di Telkom University.
 
-Terbuka untuk kerja atau project-an. Kalau ada yang cocok, tinggal kontak saya lewat tautan di bawah. Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
+Saya suka bikin website, aplikasi, dan model machine learning, terutama computer vision. Sehari-hari pakai Laravel, Next.js, dan Flutter, dengan Supabase/MySQL di sisi database. Deploy di Vercel, Netlify, atau cPanel, dan lagi belajar ngurus VPS.
+
+Saya juga sering bikin chatbot (Telegram, Discord, dll) dan tools kecil buat mempermudah kerjaan orang.
+
+Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
