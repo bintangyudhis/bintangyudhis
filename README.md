@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/night-banner.svg" width="880" alt="Banner malam: sosok berjubah di atas atap di bawah bulan sabit"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/void-banner.svg" width="880" alt="Banner Unlimited Void: lingkaran hitam bercincin biru-ungu di ruang kosmik"/>
 </p>
 
 <p align="center">
@@ -38,6 +38,10 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/divider.svg" width="880" alt=""/>
+</p>
+
 ## Teknologi & Tools
 
 <p align="center">
@@ -55,6 +59,10 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 - **[Pendekin](https://github.com/bintangyudhis/pendekin)** — pemendek tautan dengan slug custom, pencatatan klik, dan dashboard analitik. Live: [pendekin-nine.vercel.app](https://pendekin-nine.vercel.app)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/divider.svg" width="880" alt=""/>
+</p>
 
 ## GitHub Stats
 
@@ -76,6 +84,10 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/divider.svg" width="880" alt=""/>
+</p>
 
 ## Connect With Me
 
