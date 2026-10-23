@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-banner.gif" width="880" alt="Gojo Satoru di antara bola energi Red dan Blue"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-stats.svg" width="880" alt="Statistik GitHub Bintang Yudhistira bersama Gojo Satoru"/>
 </p>
 
 <p align="center">
