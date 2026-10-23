@@ -73,8 +73,14 @@ def fmt(n):
     return f"{n:,}".replace(",", ".")
 
 
-def build_svg(s, rank, gojo_b64):
+def build_svg(s, rank, gojo_b64, gw, gh):
     W, H = 1000, 290
+    disp_h = 300
+    disp_w = round(disp_h * gw / gh)
+    img_x = 976 - disp_w
+    halo_cx = img_x + disp_w // 2
+    halo_cy = 116
+    halo_r = 104
     random.seed(23)
     stars_svg = []
     for _ in range(64):
@@ -122,14 +128,14 @@ def build_svg(s, rank, gojo_b64):
   <ellipse cx="200" cy="52" rx="300" ry="110" fill="url(#neb1)"/>
   <ellipse cx="640" cy="250" rx="320" ry="110" fill="url(#neb2)"/>
   {''.join(stars_svg)}
-  <circle cx="876" cy="140" r="97" fill="none" stroke="#38bdf8" stroke-width="2.5" opacity="0.9">
-    <animate attributeName="r" values="97;101;97" dur="6s" repeatCount="indefinite"/>
+  <circle cx="{halo_cx}" cy="{halo_cy}" r="{halo_r}" fill="none" stroke="#38bdf8" stroke-width="2.5" opacity="0.9">
+    <animate attributeName="r" values="{halo_r};{halo_r + 4};{halo_r}" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.9;0.55;0.9" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="876" cy="140" r="108" fill="none" stroke="#a855f7" stroke-width="1.4" opacity="0.5">
-    <animate attributeName="r" values="108;104;108" dur="6s" repeatCount="indefinite"/>
+  <circle cx="{halo_cx}" cy="{halo_cy}" r="{halo_r + 11}" fill="none" stroke="#a855f7" stroke-width="1.4" opacity="0.5">
+    <animate attributeName="r" values="{halo_r + 11};{halo_r + 7};{halo_r + 11}" dur="6s" repeatCount="indefinite"/>
   </circle>
-  <image href="data:image/png;base64,{gojo_b64}" x="772" y="8" width="212" height="299"/>
+  <image href="data:image/png;base64,{gojo_b64}" x="{img_x}" y="4" width="{disp_w}" height="{disp_h}"/>
   <text x="48" y="66" font-size="21" font-weight="700" letter-spacing="3" fill="#e2e8f0">GITHUB STATS</text>
   <text x="48" y="94" font-size="16" fill="#7dd3fc">@{USER}</text>
   <rect x="48" y="112" width="150" height="3" rx="1.5" fill="#a855f7"/>
@@ -144,8 +150,11 @@ def main():
     stats = fetch_stats()
     rank = rank_letter(stats)
     with open(os.path.join(HERE, "gojo-cutout.png"), "rb") as f:
-        gojo_b64 = base64.b64encode(f.read()).decode()
-    svg = build_svg(stats, rank, gojo_b64)
+        raw = f.read()
+    gojo_b64 = base64.b64encode(raw).decode()
+    import struct
+    gw, gh = struct.unpack(">II", raw[16:24])
+    svg = build_svg(stats, rank, gojo_b64, gw, gh)
     out = os.path.join(ROOT, "assets", "gojo-stats.svg")
     with open(out, "w") as f:
         f.write(svg)
