@@ -1,13 +1,5 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/banner.png" alt="Bintang Yudhistira — Web Developer"/>
-</p>
-
-<h1 align="center">Hi, I'm Bintang Yudhistira</h1>
-
-<p align="center">
-  Software Developer & AI enthusiast — mahasiswa Informatika di Telkom University Purwokerto.<br/>
-  Saya membangun aplikasi web dan mobile, dan sedang mendalami Machine Learning & Computer Vision.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Bintang+Yudhistira;Software+Developer;Next.js+%C2%B7+Flutter+%C2%B7+Laravel;Informatics+%40+Telkom+University" alt="Bintang Yudhistira — Software Developer"/>
 </p>
 
 <p align="center">
@@ -18,11 +10,11 @@
 
 ## Tentang Saya
 
-- Mahasiswa **Informatika — Telkom University Purwokerto**
-- Saat ini fokus membangun aplikasi dengan **Next.js** dan **Flutter**, setelah sebelumnya banyak berkarya dengan **Laravel**
-- Tertarik pada **Software Development, Machine Learning, dan Computer Vision**
-- Terbuka untuk kolaborasi project
-- Portfolio: **[bintangyudhis.my.id](https://bintangyudhis.my.id)**
+Mahasiswa Informatika di **Telkom University Purwokerto** yang sehari-hari membangun aplikasi web dan mobile — akhir-akhir ini dengan **Next.js** dan **Flutter**, setelah sebelumnya banyak berkarya dengan **Laravel**.
+
+Hasilnya bisa dilihat langsung: [DompetKu](https://dompetku.bintangyudhis.my.id) untuk mencatat keuangan pribadi, dan [Pendekin](https://pendekin-nine.vercel.app) untuk memendekkan tautan beserta analitik kliknya. Di luar membangun aplikasi, saya sedang mendalami **Machine Learning & Computer Vision**.
+
+Terbuka untuk kolaborasi project — portfolio lengkap saya ada di **[bintangyudhis.my.id](https://bintangyudhis.my.id)**.
 
 ---
 
