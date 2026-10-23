@@ -50,6 +50,34 @@ def fetch_stats():
     }
 
 
+LANG_COLORS = {
+    "TypeScript": "#3178c6", "JavaScript": "#f1e05a", "PHP": "#4F5D95",
+    "Python": "#3572A5", "Dart": "#00B4AB", "HTML": "#e34c26",
+    "CSS": "#563d7c", "Blade": "#f7523f", "Java": "#b07219", "Jupyter Notebook": "#DA5B0B", "SCSS": "#c6538c",
+    "Go": "#00ADD8", "C++": "#f34b7d", "Vue": "#41b883",
+}
+
+
+def fetch_languages():
+    totals = {}
+    page = 1
+    while True:
+        repos = api(f"/users/{USER}/repos?per_page=100&page={page}&type=owner")
+        if not repos:
+            break
+        for r in repos:
+            if r.get("fork"):
+                continue
+            try:
+                langs = api(f"/repos/{USER}/{r['name']}/languages")
+            except Exception:
+                continue
+            for name, size in langs.items():
+                totals[name] = totals.get(name, 0) + size
+        page += 1
+    return sorted(totals.items(), key=lambda kv: -kv[1])
+
+
 def rank_letter(s):
     # github-readme-stats: exponential cdf 1 - 2^(-x/median), weighted mean
     parts = [
@@ -145,9 +173,76 @@ def build_svg(s, rank, gojo_b64, gw, gh):
 </svg>'''
 
 
+CARD_BG = """<defs>
+  <linearGradient id="space" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#020010"/><stop offset="1" stop-color="#170b33"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="493" height="213" rx="10" fill="url(#space)" stroke="#a855f7" stroke-opacity="0.45" stroke-width="2"/>"""
+FONT = "'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif"
+
+
+def build_detail_svg(s, rank):
+    rows = [
+        ("Total Stars Earned", s["stars"]),
+        ("Total Commits", s["commits"]),
+        ("Total PRs", s["prs"]),
+        ("Total Issues", s["issues"]),
+        ("Followers", s["followers"]),
+    ]
+    body = []
+    for i, (label, val) in enumerate(rows):
+        y = 78 + i * 27
+        body.append(f'<circle cx="42" cy="{y - 5}" r="3.5" fill="#38bdf8"/>'
+                    f'<text x="58" y="{y}" font-size="15.5" fill="#e2e8f0">{label}</text>'
+                    f'<text x="330" y="{y}" font-size="15.5" font-weight="700" fill="#f8fafc" text-anchor="end">{fmt(val)}</text>')
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" font-family="{FONT}">
+{CARD_BG}
+<text x="32" y="44" font-size="19" font-weight="700" fill="#a855f7">Statistik GitHub</text>
+{''.join(body)}
+<circle cx="415" cy="112" r="46" fill="none" stroke="#1e293b" stroke-width="9"/>
+<circle cx="415" cy="112" r="46" fill="none" stroke="#a855f7" stroke-width="9" stroke-dasharray="289" stroke-dashoffset="70" transform="rotate(-90 415 112)" stroke-linecap="round"/>
+<text x="415" y="122" font-size="27" font-weight="800" fill="#e879f9" text-anchor="middle">{rank}</text>
+<text x="415" y="182" font-size="11.5" fill="#94a3b8" text-anchor="middle">Rank</text>
+</svg>'''
+
+
+def build_langs_svg(langs):
+    top = langs[:6]
+    total = sum(v for _, v in langs) or 1
+    bar = []
+    x = 32.0
+    for name, size in top:
+        w = 431 * size / total
+        bar.append(f'<rect x="{x:.1f}" y="66" width="{max(w - 2, 2):.1f}" height="9" rx="4.5" fill="{LANG_COLORS.get(name, "#94a3b8")}"/>')
+        x += w
+    body = []
+    for i, (name, size) in enumerate(top):
+        col = i % 2
+        row = i // 2
+        lx = 32 + col * 222
+        ly = 108 + row * 36
+        pct = size / total * 100
+        body.append(f'<circle cx="{lx + 5}" cy="{ly - 5}" r="5" fill="{LANG_COLORS.get(name, "#94a3b8")}"/>'
+                    f'<text x="{lx + 18}" y="{ly}" font-size="15" fill="#e2e8f0">{name}</text>'
+                    f'<text x="{lx + 205}" y="{ly}" font-size="15" fill="#94a3b8" text-anchor="end">{pct:.1f}%</text>')
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" font-family="{FONT}">
+{CARD_BG}
+<text x="32" y="44" font-size="19" font-weight="700" fill="#a855f7">Bahasa Teratas</text>
+{''.join(bar)}
+{''.join(body)}
+</svg>'''
+
+
 def main():
     stats = fetch_stats()
     rank = rank_letter(stats)
+    langs = fetch_languages()
+    with open(os.path.join(ROOT, "assets", "gojo-stats-detail.svg"), "w") as f:
+        f.write(build_detail_svg(stats, rank))
+    with open(os.path.join(ROOT, "assets", "gojo-langs.svg"), "w") as f:
+        f.write(build_langs_svg(langs))
+    print("langs:", [(n, v) for n, v in langs[:6]])
     with open(os.path.join(HERE, "gojo-cutout.png"), "rb") as f:
         raw = f.read()
     gojo_b64 = base64.b64encode(raw).decode()
