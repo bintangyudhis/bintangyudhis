@@ -76,8 +76,8 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&include_all_commits=true&hide_border=false&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=40,0a0620,1e0a45&border_color=7e22ce" height="165" alt="Statistik GitHub Bintang Yudhistira"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&hide_border=false&title_color=a855f7&text_color=e2e8f0&bg_color=40,0a0620,1e0a45&border_color=7e22ce" height="165" alt="Bahasa teratas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&include_all_commits=true&hide_border=false&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=0a0620&border_color=7e22ce" height="165" alt="Statistik GitHub Bintang Yudhistira"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&hide_border=false&title_color=a855f7&text_color=e2e8f0&bg_color=0a0620&border_color=7e22ce" height="165" alt="Bahasa teratas"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0620" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-a855f7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHRleHQgeD0nMTInIHk9JzE4JyBmb250LXNpemU9JzE1JyBmb250LWZhbWlseT0nQXJpYWwsIHNhbnMtc2VyaWYnIGZvbnQtd2VpZ2h0PSdib2xkJyBmaWxsPScjZmZmZmZmJyB0ZXh0LWFuY2hvcj0nbWlkZGxlJz5pbjwvdGV4dD48L3N2Zz4%3D&labelColor=0a0620" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/yudhis_gaiden" target="_blank">
