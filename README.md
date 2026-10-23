@@ -14,13 +14,45 @@
 
 ## Tentang Saya
 
-<img align="right" width="190" src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" alt="Anime girl coding"/>
+<img align="right" width="250" src="https://media.giphy.com/media/LgpTnuSMkbHoZZ7PID/giphy-downsized.gif" alt="L Lawliet thinking"/>
 
 Mahasiswa Informatika di **Telkom University**. Software developer dan AI enthusiast — berkarya dengan Next.js, Flutter, dan Laravel, dan sedang mendalami Machine Learning & Computer Vision.
 
 Terbuka untuk kerja atau project-an. Kalau ada yang cocok, tinggal kontak saya lewat tautan di bawah. Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
+
+---
+
+## Sudut Anime
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcvA2plCdmtOqIM/giphy.gif" width="640" alt="Survey Corps in action"/>
+</p>
+
+Anime bukan sekadar tontonan buat saya — AnimeQu, katalog anime dengan data dari AniList API, adalah salah satu project yang sedang saya siapkan.
+
+**Character card:**
+
+```yaml
+name: Bintang Yudhistira
+role: Software Developer
+base: Telkom University — Informatika
+stack: [Next.js, Flutter, Laravel]
+quest: "7 repo dalam 28 hari, commit tiap hari"
+open_to: "kerja & project-an — tinggal kontak"
+```
+
+**Aturan main:**
+
+```
+┌─ Aturan main ───────────────────────────────────┐
+│ 1. Satu hari, satu push. Streak tidak putus.    │
+│ 2. "fix stuff" bukan pesan commit.              │
+│ 3. Tidak ada tulisan AI-slop di halaman publik. │
+│ 4. Jangan overklaim.                            │
+└─────────────────────────────────────────────────┘
+```
 
 ## Teknologi & Tools
 
@@ -80,3 +112,5 @@ Terbuka untuk kerja atau project-an. Kalau ada yang cocok, tinggal kontak saya l
 <p align="center">
   <i>Let's connect and build something worth building.</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" width="100%" alt=""/>
