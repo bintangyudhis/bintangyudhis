@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-stats.svg" width="880" alt="Statistik GitHub Bintang Yudhistira bersama Gojo Satoru"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-stats.svg?v=2" width="880" alt="Statistik GitHub Bintang Yudhistira bersama Gojo Satoru"/>
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis&title=Profile%20views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bintangyudhis&label=Profile%20views&color=a855f7&style=flat-square" alt="Profile views"/>
 </p>
 
 <!-- GIF ngetik disembunyikan dulu: ga nyambung sama tema (2026-10-24)
@@ -46,6 +46,9 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ## Teknologi & Tools
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-tech.jpg" width="200" alt="Gojo Satoru dengan energi terkutuk — panel manga Shinjuku"/>
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,php,python,java,go,javascript,typescript,dart&theme=dark" alt="Bahasa pemrograman"/>
 </p>
