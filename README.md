@@ -47,13 +47,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ## Teknologi & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-tech.gif" width="880" alt="Gojo Satoru dan orb Hollow Purple menyapu logo-logo teknologi"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,php,python,java,go,javascript,typescript,dart&theme=dark" alt="Bahasa pemrograman"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,tailwind,mysql,git,github&theme=dark" alt="Framework dan tools"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-tech.gif" width="920" alt="Gojo Satoru dan orb Hollow Purple menyapu logo-logo teknologi"/>
 </p>
 
 ---
