@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/void-banner.svg" width="880" alt="Banner Unlimited Void: lingkaran hitam bercincin biru-ungu di ruang kosmik"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-banner.gif" width="880" alt="Gojo Satoru di antara bola energi Red dan Blue"/>
 </p>
 
 <p align="center">
@@ -78,6 +78,10 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ---
 
 ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-sukuna.jpg" width="380" alt="Gojo Satoru bersiap melawan Sukuna — panel manga Shinjuku"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/output/github-contribution-grid-snake.svg" alt="Snake animation memakan grafik kontribusi"/>
