@@ -73,14 +73,6 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
-## Grafik Kontribusi 3D
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/profile-3d-contrib/profile-gitblock.svg" width="880" alt="Grafik kontribusi 3D"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
