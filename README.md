@@ -6,9 +6,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis&title=Profile%20views" alt="Profile views"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="560" alt="Anime typing at lightning speed"/>
+</p>
+
 ---
 
 ## Tentang Saya
+
+<img align="right" width="190" src="https://media.giphy.com/media/5NE2L7vdWZ9V39Sjq8/giphy.gif" alt="Anime girl coding"/>
 
 Mahasiswa Informatika di **Telkom University**. Software developer dan AI enthusiast — berkarya dengan Next.js, Flutter, dan Laravel, dan sedang mendalami Machine Learning & Computer Vision.
 
