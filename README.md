@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/night-banner.svg" width="880" alt="Banner malam: sosok berjubah di atas atap di bawah bulan sabit"/>
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis&title=Profile%20views" alt="Profile views"/>
 </p>
 
