@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Bintang+Yudhistira;Software+Developer;Next.js+%C2%B7+Flutter+%C2%B7+Laravel;Informatics+%40+Telkom+University" alt="Bintang Yudhistira — Software Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=640&lines=Bintang+Yudhistira;Software+Developer;Next.js+%C2%B7+Flutter+%C2%B7+Laravel;Informatics+%40+Telkom+University" alt="Bintang Yudhistira — Software Developer"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## Tentang Saya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Bikin+website%2C+aplikasi%2C+dan+model+ML;Terutama+computer+vision;Chatbot+Telegram+%26+Discord;Lagi+belajar+ngurus+VPS" alt="Yang biasa saya kerjakan"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Bikin+website%2C+aplikasi%2C+dan+model+ML;Terutama+computer+vision;Chatbot+Telegram+%26+Discord;Lagi+belajar+ngurus+VPS" alt="Yang biasa saya kerjakan"/>
 </p>
 
 Halo, saya Bintang. Mahasiswa Informatika di Telkom University.
@@ -47,7 +47,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ## Teknologi & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-tech.jpg" width="200" alt="Gojo Satoru dengan energi terkutuk — panel manga Shinjuku"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-tech.gif" width="880" alt="Gojo Satoru dan orb Hollow Purple menyapu logo-logo teknologi"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,php,python,java,go,javascript,typescript,dart&theme=dark" alt="Bahasa pemrograman"/>
@@ -72,12 +72,16 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="Statistik GitHub Bintang Yudhistira"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Bahasa teratas"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-mini.svg" width="880" alt="Gojo Satoru"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bintangyudhis&theme=github-dark&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bintangyudhis&show_icons=true&include_all_commits=true&hide_border=false&title_color=a855f7&icon_color=38bdf8&text_color=e2e8f0&bg_color=40,0a0620,1e0a45&border_color=7e22ce" height="165" alt="Statistik GitHub Bintang Yudhistira"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintangyudhis&layout=compact&hide_border=false&title_color=a855f7&text_color=e2e8f0&bg_color=40,0a0620,1e0a45&border_color=7e22ce" height="165" alt="Bahasa teratas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bintangyudhis&hide_border=true&background=0A0620&ring=A855F7&fire=E879F9&currStreakLabel=E879F9&sideLabels=94A3B8&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=DDD6FE" height="165" alt="GitHub streak"/>
 </p>
 
 ---
@@ -102,15 +106,15 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 <p align="center">
   <a href="https://discordapp.com/users/youthis1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" alt="Discord"/>
+    <img src="https://img.shields.io/badge/-Discord-a855f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0620" alt="Discord"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/bintang-yudhistira-278448289" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0620" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/yudhis_gaiden" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-a855f7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0620" alt="Instagram"/>
   </a>
 </p>
 
@@ -118,4 +122,4 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
   <i>Let's connect and build something worth building.</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0620,100:7e22ce&height=120&section=footer" width="100%" alt=""/>

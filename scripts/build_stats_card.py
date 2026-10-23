@@ -53,7 +53,7 @@ def fetch_stats():
 def rank_letter(s):
     # github-readme-stats: exponential cdf 1 - 2^(-x/median), weighted mean
     parts = [
-        (s["commits"], 250, 2),
+        (s["commits"], 1000, 2),  # median 1000: matches include_all_commits config of the official card
         (s["prs"], 50, 3),
         (s["issues"], 25, 1),
         (0, 2, 1),  # reviews: not fetched, counts as 0
@@ -62,8 +62,8 @@ def rank_letter(s):
     ]
     score = sum(w * (1 - 2 ** (-x / m)) for x, m, w in parts) / sum(w for _, _, w in parts)
     pct = (1 - score) * 100
-    for limit, letter in [(1, "S+"), (12.5, "S"), (25, "A+"), (37.5, "A"),
-                          (50, "A-"), (62.5, "B+"), (75, "B"), (87.5, "B-")]:
+    for limit, letter in [(1, "S+"), (12.5, "S"), (25, "A++"), (37.5, "A+"),
+                          (50, "A"), (62.5, "A-"), (75, "B+"), (87.5, "B"), (100, "B-")]:
         if pct <= limit:
             return letter
     return "C+"
@@ -140,7 +140,6 @@ def build_svg(s, rank, gojo_b64, gw, gh):
   <text x="48" y="94" font-size="16" fill="#7dd3fc">@{USER}</text>
   <rect x="48" y="112" width="150" height="3" rx="1.5" fill="#a855f7"/>
   {''.join(cells)}
-  <text x="48" y="254" font-size="12.5" fill="#64748b">Diperbarui otomatis setiap hari</text>
 </g>
 <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="none" stroke="#a855f7" stroke-opacity="0.4" stroke-width="2"/>
 </svg>'''
