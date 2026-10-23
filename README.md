@@ -10,11 +10,9 @@
 
 ## Tentang Saya
 
-Mahasiswa Informatika di **Telkom University Purwokerto** yang sehari-hari membangun aplikasi web dan mobile — akhir-akhir ini dengan **Next.js** dan **Flutter**, setelah sebelumnya banyak berkarya dengan **Laravel**.
+Mahasiswa Informatika di **Telkom University**. Software developer dan AI enthusiast — berkarya dengan Next.js, Flutter, dan Laravel, dan sedang mendalami Machine Learning & Computer Vision.
 
-Hasilnya bisa dilihat langsung: [DompetKu](https://dompetku.bintangyudhis.my.id) untuk mencatat keuangan pribadi, dan [Pendekin](https://pendekin-nine.vercel.app) untuk memendekkan tautan beserta analitik kliknya. Di luar membangun aplikasi, saya sedang mendalami **Machine Learning & Computer Vision**.
-
-Terbuka untuk kolaborasi project — portfolio lengkap saya ada di **[bintangyudhis.my.id](https://bintangyudhis.my.id)**.
+Terbuka untuk kerja atau project-an. Kalau ada yang cocok, tinggal kontak saya lewat tautan di bawah. Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
