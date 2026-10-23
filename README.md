@@ -10,9 +10,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bintangyudhis.bintangyudhis&title=Profile%20views" alt="Profile views"/>
 </p>
 
+<!-- GIF ngetik disembunyikan dulu: ga nyambung sama tema (2026-10-24)
 <p align="center">
   <img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" width="560" alt="Anime typing at lightning speed"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/card.gif" width="880" alt="Kartu profil Bintang Yudhistira"/>
@@ -80,7 +82,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-sukuna.jpg" width="380" alt="Gojo Satoru bersiap melawan Sukuna — panel manga Shinjuku"/>
+  <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-hollow.gif" width="460" alt="Gojo Satoru menembakkan Hollow Purple"/>
 </p>
 
 <p align="center">
