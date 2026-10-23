@@ -37,6 +37,13 @@
 
 ---
 
+## Proyek Unggulan
+
+- **[DompetKu](https://github.com/bintangyudhis/dompetku-web)** — web pencatat keuangan pribadi: pemasukan/pengeluaran, budget, pemasukan rutin, ekspor CSV, dan REST API untuk aplikasi mobile. Live: [dompetku.bintangyudhis.my.id](https://dompetku.bintangyudhis.my.id)
+- **[Pendekin](https://github.com/bintangyudhis/pendekin)** — pemendek tautan dengan slug custom, pencatatan klik, dan dashboard analitik. Live: [pendekin-nine.vercel.app](https://pendekin-nine.vercel.app)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
