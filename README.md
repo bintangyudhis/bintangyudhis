@@ -18,6 +18,10 @@
 
 ## Tentang Saya
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Bikin+website%2C+aplikasi%2C+dan+model+ML;Terutama+computer+vision;Chatbot+Telegram+%26+Discord;Lagi+belajar+ngurus+VPS" alt="Yang biasa saya kerjakan"/>
+</p>
+
 Halo, saya Bintang. Mahasiswa Informatika di Telkom University.
 
 Saya suka bikin website, aplikasi, dan model machine learning, terutama computer vision. Sehari-hari pakai Laravel, Next.js, dan Flutter, dengan Supabase/MySQL di sisi database. Deploy di Vercel, Netlify, atau cPanel, dan lagi belajar ngurus VPS.
