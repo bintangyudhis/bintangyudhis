@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bintangyudhis&label=Profile%20views&color=a855f7&style=flat-square" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/bintangyudhis.svg?style=flat-square&color=a855f7&labelColor=1f2937&label=Profile%20views" alt="Profile views"/>
 </p>
 
 <!-- GIF ngetik disembunyikan dulu: ga nyambung sama tema (2026-10-24)
