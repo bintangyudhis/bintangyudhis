@@ -43,6 +43,7 @@ def fetch_commits(user):
     # year (same method as github-readme-stats include_all_commits). The REST
     # commit SEARCH index total fluctuates (381 -> 345 -> 419 within hours on
     # 2026-10-24), so it must not be used for the displayed number.
+    # Verified live 2026-10-24: one new main-branch commit raises this by 1.
     try:
         import datetime
         first_year = int(user["created_at"][:4])
