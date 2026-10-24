@@ -28,6 +28,36 @@ def api(path):
         return json.load(r)
 
 
+def gql(query):
+    body = json.dumps({"query": query}).encode()
+    req = urllib.request.Request("https://api.github.com/graphql", data=body, method="POST")
+    req.add_header("Content-Type", "application/json")
+    if TOKEN:
+        req.add_header("Authorization", "Bearer " + TOKEN)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)
+
+
+def fetch_commits(user):
+    # Stable all-time count: sum GraphQL totalCommitContributions per calendar
+    # year (same method as github-readme-stats include_all_commits). The REST
+    # commit SEARCH index total fluctuates (381 -> 345 -> 419 within hours on
+    # 2026-10-24), so it must not be used for the displayed number.
+    try:
+        import datetime
+        first_year = int(user["created_at"][:4])
+        this_year = datetime.datetime.now(datetime.timezone.utc).year
+        total = 0
+        for year in range(first_year, this_year + 1):
+            q = ('query { user(login: "%s") { contributionsCollection('
+                 'from: "%d-01-01T00:00:00Z", to: "%d-12-31T23:59:59Z") '
+                 '{ totalCommitContributions } } }') % (USER, year, year)
+            total += gql(q)["data"]["user"]["contributionsCollection"]["totalCommitContributions"]
+        return total
+    except Exception:
+        return api(f"/search/commits?q=author:{USER}")["total_count"]
+
+
 def fetch_stats():
     user = api(f"/users/{USER}")
     stars = 0
@@ -40,7 +70,7 @@ def fetch_stats():
         page += 1
     prs = api(f"/search/issues?q=author:{USER}+type:pr+is:merged")["total_count"]
     issues = api(f"/search/issues?q=author:{USER}+type:issue")["total_count"]
-    commits = api(f"/search/commits?q=author:{USER}")["total_count"]
+    commits = fetch_commits(user)
     return {
         "commits": commits,
         "prs": prs,
