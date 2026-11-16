@@ -40,6 +40,23 @@ Oktober sampai November 2026 saya menjalankan program portofolio tujuh repo dala
 
 Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
+<details>
+<summary><b>Read in English: About Me</b></summary>
+
+Hi, I'm Bintang. An Informatics student at Telkom University.
+
+I like building websites, apps, and machine learning models, especially computer vision. Day to day I work with Laravel, Next.js, and Flutter, with Supabase/MySQL on the database side. I deploy to Vercel, Netlify, or cPanel, and I am learning to manage a VPS.
+
+I also build chatbots (Telegram, Discord, and others) and small tools that make other people's work easier.
+
+Work experience: Junior Software Engineer at PT KRISNA ARDHI TAMA (ERP implementation, January to June 2026) and an intern in the IT Planning division of the Purwokerto District Court (2025).
+
+From October to November 2026 I ran a portfolio program of seven repos in four weeks, one repo finished each week, and I am now continuing with Gaiden ERP, a Laravel-based ERP. The details are in the Featured Projects section below.
+
+Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
+
+</details>
+
 ---
 
 <p align="center">
@@ -66,6 +83,22 @@ Proyek-proyek di bawah ini dibangun berurutan dalam program portofolio Oktober s
 - **[Topi Surya IoT](https://github.com/bintangyudhis/topi-surya-iot)**: dashboard untuk kipas topi bertenaga panel surya. Telemetri dari ESP32, kontrol kipas, halaman riwayat, dan simulator kalau perangkat aslinya tidak terhubung.
 
 Daftar lengkap proyek ada di [bintangyudhis.my.id/proyek](https://www.bintangyudhis.my.id/proyek).
+
+<details>
+<summary><b>Read in English: Featured Projects</b></summary>
+
+The projects below were built one after another in a portfolio program from October to November 2026, one repo finished each week.
+
+- **[DompetKu](https://github.com/bintangyudhis/dompetku-web)**: a personal finance tracker web app. Income and expenses, categories, budgets, recurring income, CSV import and export, plus an API for the Android app below. Live: [dompetku.bintangyudhis.my.id](https://dompetku.bintangyudhis.my.id)
+- **[DompetKu App](https://github.com/bintangyudhis/dompetku-app)**: the Flutter app for DompetKu. Same email and password login as the web version, with data stored in the same database.
+- **[Pendekin](https://github.com/bintangyudhis/pendekin)**: a link shortener with user accounts. Custom slugs, click statistics for every link, and a dashboard that only shows the signed-in account's links. Live: [pendekin.bintangyudhis.my.id](https://pendekin.bintangyudhis.my.id)
+- **[Animequ](https://github.com/bintangyudhis/animequ)**: an anime catalogue powered by the AniList API. Release schedules, rankings, browsing by genre, and detail pages with Muse Indonesia videos verified to match the title. Live: [anime.bintangyudhis.my.id](https://anime.bintangyudhis.my.id)
+- **[Tulisqu](https://github.com/bintangyudhis/tulisqu)**: a place to store lecture notes by course, upload files, save links, and keep a daily task list. Live: [tulis.bintangyudhis.my.id](https://tulis.bintangyudhis.my.id)
+- **[Topi Surya IoT](https://github.com/bintangyudhis/topi-surya-iot)**: a dashboard for a solar-powered hat fan. ESP32 telemetry, fan control, a history page, and a simulator when the real device is not connected.
+
+The full project list is at [bintangyudhis.my.id/proyek](https://www.bintangyudhis.my.id/proyek).
+
+</details>
 
 ---
 
