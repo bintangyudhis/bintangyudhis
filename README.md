@@ -56,7 +56,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ## Proyek Unggulan
 
-Tujuh proyek di bawah ini dibangun berurutan dalam program portofolio Oktober sampai November 2026, satu repo selesai tiap minggu.
+Proyek-proyek di bawah ini dibangun berurutan dalam program portofolio Oktober sampai November 2026, satu repo selesai tiap minggu.
 
 - **[DompetKu](https://github.com/bintangyudhis/dompetku-web)**: web pencatat keuangan pribadi. Pemasukan dan pengeluaran, kategori, budget, pemasukan rutin, impor dan ekspor CSV, plus API untuk aplikasi Android di bawah. Live: [dompetku.bintangyudhis.my.id](https://dompetku.bintangyudhis.my.id)
 - **[DompetKu App](https://github.com/bintangyudhis/dompetku-app)**: aplikasi Flutter untuk DompetKu. Login email dan kata sandi yang sama dengan versi web, datanya tersimpan di database yang sama.
@@ -64,7 +64,6 @@ Tujuh proyek di bawah ini dibangun berurutan dalam program portofolio Oktober sa
 - **[Animequ](https://github.com/bintangyudhis/animequ)**: katalog anime dari API AniList. Jadwal rilis, peringkat, jelajah per genre, dan di halaman detail ada video Muse Indonesia yang sudah diverifikasi cocok dengan judulnya. Live: [anime.bintangyudhis.my.id](https://anime.bintangyudhis.my.id)
 - **[Tulisqu](https://github.com/bintangyudhis/tulisqu)**: tempat menyimpan catatan kuliah per mata kuliah, upload berkas, simpan tautan, dan daftar tugas harian. Live: [tulis.bintangyudhis.my.id](https://tulis.bintangyudhis.my.id)
 - **[Topi Surya IoT](https://github.com/bintangyudhis/topi-surya-iot)**: dashboard untuk kipas topi bertenaga panel surya. Telemetri dari ESP32, kontrol kipas, halaman riwayat, dan simulator kalau perangkat aslinya tidak terhubung.
-- **GaidenAI**: dasbor chat AI pribadi yang memakai 9Router milik sendiri sebagai penyedia model. Pilih model dari daftar live, kirim gambar, mode gelap, riwayat percakapan tersimpan di peramban. Repo privat. Live: [ai.bintangyudhis.my.id](https://ai.bintangyudhis.my.id)
 
 Daftar lengkap proyek ada di [bintangyudhis.my.id/proyek](https://www.bintangyudhis.my.id/proyek).
 
