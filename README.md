@@ -34,9 +34,11 @@ Saya suka bikin website, aplikasi, dan model machine learning, terutama computer
 
 Saya juga sering bikin chatbot (Telegram, Discord, dll) dan tools kecil buat mempermudah kerjaan orang.
 
-Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
+Pengalaman kerja: Junior Software Engineer di PT KRISNA ARDHI TAMA (implementasi ERP, Januari sampai Juni 2026) dan magang di divisi Perencanaan TI Pengadilan Negeri Purwokerto (2025).
 
----
+Oktober sampai November 2026 saya menjalankan program portofolio tujuh repo dalam empat minggu, satu repo selesai tiap minggu, dan sekarang lanjut membangun Gaiden ERP berbasis Laravel. Rinciannya ada di bagian Proyek Unggulan di bawah.
+
+Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
@@ -54,8 +56,17 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ## Proyek Unggulan
 
-- **[DompetKu](https://github.com/bintangyudhis/dompetku-web)** — web pencatat keuangan pribadi: pemasukan/pengeluaran, budget, pemasukan rutin, ekspor CSV, dan REST API untuk aplikasi mobile. Live: [dompetku.bintangyudhis.my.id](https://dompetku.bintangyudhis.my.id)
-- **[Pendekin](https://github.com/bintangyudhis/pendekin)** — pemendek tautan dengan slug custom, pencatatan klik, dan dashboard analitik. Live: [pendekin-nine.vercel.app](https://pendekin-nine.vercel.app)
+Tujuh proyek di bawah ini dibangun berurutan dalam program portofolio Oktober sampai November 2026, satu repo selesai tiap minggu.
+
+- **[DompetKu](https://github.com/bintangyudhis/dompetku-web)**: web pencatat keuangan pribadi. Pemasukan dan pengeluaran, kategori, budget, pemasukan rutin, impor dan ekspor CSV, plus API untuk aplikasi Android di bawah. Live: [dompetku.bintangyudhis.my.id](https://dompetku.bintangyudhis.my.id)
+- **[DompetKu App](https://github.com/bintangyudhis/dompetku-app)**: aplikasi Flutter untuk DompetKu. Login email dan kata sandi yang sama dengan versi web, datanya tersimpan di database yang sama.
+- **[Pendekin](https://github.com/bintangyudhis/pendekin)**: pemendek tautan dengan akun pengguna. Slug bisa dibuat sendiri, tiap tautan punya statistik klik, dan dashboard hanya menampilkan tautan milik akun yang masuk. Live: [pendekin.bintangyudhis.my.id](https://pendekin.bintangyudhis.my.id)
+- **[Animequ](https://github.com/bintangyudhis/animequ)**: katalog anime dari API AniList. Jadwal rilis, peringkat, jelajah per genre, dan di halaman detail ada video Muse Indonesia yang sudah diverifikasi cocok dengan judulnya. Live: [anime.bintangyudhis.my.id](https://anime.bintangyudhis.my.id)
+- **[Tulisqu](https://github.com/bintangyudhis/tulisqu)**: tempat menyimpan catatan kuliah per mata kuliah, upload berkas, simpan tautan, dan daftar tugas harian. Live: [tulis.bintangyudhis.my.id](https://tulis.bintangyudhis.my.id)
+- **[Topi Surya IoT](https://github.com/bintangyudhis/topi-surya-iot)**: dashboard untuk kipas topi bertenaga panel surya. Telemetri dari ESP32, kontrol kipas, halaman riwayat, dan simulator kalau perangkat aslinya tidak terhubung.
+- **GaidenAI**: dasbor chat AI pribadi yang memakai 9Router milik sendiri sebagai penyedia model. Pilih model dari daftar live, kirim gambar, mode gelap, riwayat percakapan tersimpan di peramban. Repo privat. Live: [ai.bintangyudhis.my.id](https://ai.bintangyudhis.my.id)
+
+Daftar lengkap proyek ada di [bintangyudhis.my.id/proyek](https://www.bintangyudhis.my.id/proyek).
 
 ---
 
@@ -63,7 +74,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/divider.svg" width="880" alt=""/>
 </p>
 
-## GitHub Stats
+## Statistik GitHub
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-mini.svg" width="880" alt="Gojo Satoru"/>
@@ -80,7 +91,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 
 ---
 
-## 🐍 Contribution Snake
+## Grafik Kontribusi
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/gojo-hollow.gif" width="460" alt="Gojo Satoru menembakkan Hollow Purple"/>
@@ -96,7 +107,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
   <img src="https://raw.githubusercontent.com/bintangyudhis/bintangyudhis/main/assets/divider.svg" width="880" alt=""/>
 </p>
 
-## Connect With Me
+## Kontak
 
 <p align="center">
   <a href="https://discord.com/users/1446071146993946634" target="_blank">
@@ -113,7 +124,7 @@ Portfolio: [bintangyudhis.my.id](https://bintangyudhis.my.id)
 </p>
 
 <p align="center">
-  <i>Let's connect and build something worth building.</i>
+  Email: bintangyudhistira36@gmail.com
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0620,100:7e22ce&height=120&section=footer" width="100%" alt=""/>
